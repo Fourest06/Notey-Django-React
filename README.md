@@ -6,4 +6,6 @@ Responsive Design: Notes are displayed with uniform height, arranged in 3 column
 
 Search Functionality: Displays all notes when the search bar is empty, providing a comprehensive view of all notes.
 
+Note: These responsive design changes were made by me and are not part of the original tutorial.
+
 Tutorial: This project is based on the tutorial by Code with Clinton. You can view the tutorial here (https://www.youtube.com/watch?v=fHc9AfHllwc) to learn more about the development process.
