@@ -1,6 +1,6 @@
 Notey-Django-React is a note-taking application developed using Django and React, following a tutorial by Code with Clinton. The app allows users to create and manage notes efficiently.
 
-Features:
+Customization:
 
 Responsive Design: Notes are displayed with uniform height, arranged in 3 columns on large screens, 2 columns on medium screens, and 1 column on small screens. The navbar is also responsive.
 
